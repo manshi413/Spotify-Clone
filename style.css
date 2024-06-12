@@ -27,3 +27,6 @@ body{
     gap: 1rem;
     font-weight: bold;
 }
+.bgcolor{
+    background-color: #212121;
+}
