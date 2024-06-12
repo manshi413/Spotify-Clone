@@ -16,5 +16,5 @@
 }
 .home ul li{
     display: flex;
-    gap: 3px
+    gap: 1rem
 }
