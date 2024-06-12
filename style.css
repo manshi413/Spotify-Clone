@@ -9,10 +9,10 @@
     height: 85vw;
 }
 .left{
-    width: 25vw;
+    width: 15vw;
 }
 .right{
-    width: 75vw;
+    width: 85vw;
 }
 .home ul li{
     display: flex;
