@@ -1,5 +1,6 @@
 .border{
     border: 2px solid red;
+    border-radius: 25%;
     margin: 3px ;
 }
 .flex{
