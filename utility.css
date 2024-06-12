@@ -11,3 +11,6 @@
 .item-center{
     align-items: center;
 }
+.invert{
+    filter: invert(1);
+}
