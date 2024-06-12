@@ -16,6 +16,8 @@
 }
 .home ul li{
     display: flex;
+}
+.home ul{
     gap: 1rem;
     font-weight: bold;
 }
