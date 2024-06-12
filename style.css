@@ -2,18 +2,13 @@
     background-color: black;
     color: white;
 } */
-.home{
-    height: 15vw;
-}
-.library{
-    height: 85vw;
-}
+
 .left{
     width: 25vw;
 }
 .right{
     width: 75vw;
 }
-/* .home ul li{
+.home ul li{
      list-style: none;
-} */
+}
