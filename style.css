@@ -15,5 +15,7 @@
     width: 75vw;
 }
 .home ul li{
+    display: flex;
+    gap: 3px
     list-style: none;
 }
