@@ -2,7 +2,12 @@
     background-color: black;
     color: white;
 } */
-
+.home{
+    width: 15vw;
+}
+.library{
+    width: 85vw;
+}
 .left{
     width: 25vw;
 }
