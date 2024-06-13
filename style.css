@@ -5,12 +5,14 @@
 body{
     background-color: black;
     color: white;
+    margin: 3px;
+    font-family: sans-serif;
 }
 .home{
     height: 10vw;
     border-radius: 20px;
-    padding-left: 30px;
-    padding-top: 30px;
+    padding-left: 24px;
+    padding-top: 20px;
 }
 .library{
     height: 90vw;
@@ -27,6 +29,8 @@ body{
     display: flex;
     gap: 1rem;
     font-weight: bold;
+    column-gap: 20px;
+    
 }
 .bgcolor{
     background-color: #212121;
