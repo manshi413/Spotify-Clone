@@ -9,20 +9,18 @@ body{
     font-family: sans-serif;
 }
 .home{
-    height: 10vw;
     border-radius: 20px;
     padding-left: 24px;
     padding-top: 20px;
 }
 .library{
-    height: 90vw;
     border-radius: 20px;
 }
 .left{
-    width: 15vw;
+    width: 25vw;
 }
 .right{
-    width: 85vw;
+    width: 75vw;
     border-radius: 20px;
 }
 .home ul li{
