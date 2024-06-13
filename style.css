@@ -9,6 +9,8 @@ body{
 .home{
     height: 10vw;
     border-radius: 20px;
+    padding-left: 30px;
+    padding-top: 30px;
 }
 .library{
     height: 90vw;
