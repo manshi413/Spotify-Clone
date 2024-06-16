@@ -18,6 +18,7 @@ body{
     border-radius: 5px;
     padding-left: 24px;
     padding-top: 24px;
+    font-weight: bold;
 }
 .left{
     width: 19vw;
