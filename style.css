@@ -70,7 +70,7 @@ body{
     display: flex;
     column-gap: 13px;
 }
-.footer a{
+.footer div a{
     color: grey;
     text-decoration-line: none;
 }
