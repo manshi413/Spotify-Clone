@@ -88,3 +88,7 @@ body{
     padding-bottom: 17px;
     border-radius: 10px;
 }
+.images{
+    display: flex;
+    column-gap: 25px;
+}
