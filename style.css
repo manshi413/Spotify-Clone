@@ -16,8 +16,6 @@ body{
 }
 .library{
     border-radius: 10px;
-    padding-left: 24px;
-    padding-top: 20px;
     font-weight: bold;
 }
 .left{
@@ -58,4 +56,6 @@ body{
 }
 .heading{
     padding-bottom: 22px;
+    padding-top: 20px;
+    padding-left: 24px;
 }
