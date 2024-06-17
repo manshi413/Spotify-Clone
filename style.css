@@ -62,6 +62,11 @@ body{
 } */
 .heading{
     justify-content: space-between;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
 }
 .footer{
     font-size: 11px;
@@ -105,8 +110,6 @@ body{
 .artists{
     font-size: 24px;
     font-weight: 700;
-    padding-top: 25px;
-    padding-left: 15px;
 }
 .artists:hover{
     text-decoration-line: underline;
@@ -131,9 +134,6 @@ body{
 }
 .body{
     justify-content: space-between;
-}
-.show{
-    padding: 35px;
 }
 .pritam div{
     font-weight: 700px;
