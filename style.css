@@ -17,7 +17,7 @@ body{
 .library{
     border-radius: 10px;
     font-weight: bold;
-    min-height: 50vh;
+    min-height: 64vh;
 }
 .left{
     width: 19vw;
