@@ -53,6 +53,7 @@ body{
 }
 .playlist{
     background-color: #242424;
+    border-radius: 10px;
 }
 .heading{
     padding-bottom: 22px;
