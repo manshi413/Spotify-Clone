@@ -97,14 +97,17 @@ body{
     font-weight: bold;
 }
 .signup:hover{
-    font-size: 2%;
+    font-size: 102%;
+    cursor: pointer;
+    font-weight: 700;
 }
 .artists{
     font-size: 24px;
-    font-weight: 700px;
+    font-weight: 700;
     padding-top: 30px;
     padding-left: 20px;
 }
 .artists:hover{
     text-decoration: solid;
+    cursor: pointer;
 }
