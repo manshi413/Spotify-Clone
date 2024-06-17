@@ -26,6 +26,7 @@ body{
 .right{
     width: 81vw;
     border-radius: 10px;
+    background-color: #1E1E1E;
 }
 .home ul li{
     display: flex;
