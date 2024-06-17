@@ -83,19 +83,21 @@ body{
     justify-content: space-between;
 } 
 .lef{
-    padding-top: 23px;
+    padding-top: 10px;
     padding-left: 28px;
-    padding-bottom: 17px;
+    padding-bottom: 10px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 .images{
     display: flex;
     column-gap: 25px;
+    padding-top: 15px;
 }
 .signup{
     margin-right: 112px;
     font-weight: bold;
+    padding-top: 10px;
 }
 .signup:hover{
     font-size: 102%;
@@ -122,6 +124,6 @@ body{
     font-weight: 700;
     padding-left: 32px;
     padding-right: 32px;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
