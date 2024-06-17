@@ -33,7 +33,6 @@ body{
     gap: 1rem;
     font-weight: bold;
     column-gap: 20px;
-
 }
 .bgcolor{
     background-color: #121212;
@@ -86,5 +85,6 @@ body{
 .lef{
     padding-top: 23px;
     padding-left: 28px;
-    padding: bottom 17px;
+    padding-bottom: 17px;
+    border-radius: 10px;
 }
