@@ -111,7 +111,7 @@ body{
     padding-left: 20px;
 }
 .artists:hover{
-    text-decoration: solid;
+    text-decoration-line: underline;
     cursor: pointer;
 }
 .buttons{
