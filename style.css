@@ -122,8 +122,9 @@ body{
     background-color: white;
     color: black;
     font-weight: 700;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding-left: 25px;
+    padding-right: 25px;
     padding-top: 12px;
     padding-bottom: 12px;
+    margin-right: 30px;
 }
