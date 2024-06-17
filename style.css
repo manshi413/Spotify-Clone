@@ -102,4 +102,9 @@ body{
 .artists{
     font-size: 24px;
     font-weight: 700px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.artists:hover{
+    text-decoration: solid;
 }
