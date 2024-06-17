@@ -145,3 +145,6 @@ body{
     width: 278px;
     padding: 10px;
 }
+.heading{
+    justify-content: space-between;
+}
