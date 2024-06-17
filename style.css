@@ -54,6 +54,9 @@ body{
 .playlist{
     background-color: #242424;
     border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 .heading{
     padding-bottom: 22px;
