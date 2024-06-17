@@ -112,3 +112,16 @@ body{
     text-decoration: solid;
     cursor: pointer;
 }
+.buttons{
+    display: flex;
+}
+.login{
+    border-radius: 200px;
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
