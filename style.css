@@ -51,6 +51,7 @@ body{
 }
 .lib{
     padding-right: 12px;
+    position: relative;
 }
 /* .playlist{
     background-color: #242424;
@@ -65,10 +66,12 @@ body{
     padding-left: 24px;
 }
 .footer{
-    font-size: 10px;
+    font-size: 11px;
     font-weight: normal;
     display: flex;
     column-gap: 13px;
+    position: absolute;
+    bottom: 0px;
 }
 .footer div a{
     color: grey;
