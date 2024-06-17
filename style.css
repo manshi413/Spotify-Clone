@@ -63,3 +63,9 @@ body{
     padding-top: 20px;
     padding-left: 24px;
 }
+.footer{
+    font-size: small;
+    font-weight: normal;
+    display: flex;
+    column-gap: 5px;
+}
