@@ -79,4 +79,6 @@ body{
 }
 .header{
     background-color: #101010;
+    display: flex;
+    justify-content: space-between;
 }
