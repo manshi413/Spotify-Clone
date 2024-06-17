@@ -77,11 +77,11 @@ body{
     color: grey;
     text-decoration-line: none;
 }
-.header{
+/* .header{
     background-color: #101010;
     display: flex;
     justify-content: space-between;
-}
+} */
 /* .left{
     padding-top: 23px;
     padding-left: 28px;
