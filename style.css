@@ -131,3 +131,9 @@ body{
 .pritam{
     border-radius: 50%;
 }
+.body{
+    justify-content: space-between;
+}
+.show{
+    padding: 35px;
+}
