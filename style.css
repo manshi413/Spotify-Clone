@@ -64,8 +64,11 @@ body{
     padding-left: 24px;
 }
 .footer{
-    font-size: small;
+    font-size: 10px;
     font-weight: normal;
     display: flex;
-    column-gap: 5px;
+    column-gap: 13px;
+}
+.footer a{
+    color: grey;
 }
