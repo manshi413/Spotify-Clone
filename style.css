@@ -94,4 +94,8 @@ body{
 }
 .signup{
     margin-right: 112px;
+    font-weight: bold;
+}
+.signup:hover{
+    text-decoration: solid;
 }
