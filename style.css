@@ -139,11 +139,17 @@ body{
     font-weight: 700px;
 }
 .card1{
-    height: 278px;
-    width: 278px;
+    height: 280px;
+    width: 232px;
     margin: 10px;
     border-radius: 5px;
 }
 .card1:hover{
     background-color: #1A1A1A;
+}
+.pname{
+    padding-left: 10px;
+}
+.pocc{
+    padding-left: 10px;
 }
