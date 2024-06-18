@@ -163,11 +163,11 @@ body{
     cursor: pointer;
     text-decoration-line: underline;
 }
-/* .footer{
+.footer{
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 1520px;
     height: 70px;
     background: linear-gradient(to right, #AF2896 30%, #519AF4 70%)
-} */
+}
