@@ -127,7 +127,7 @@ body{
     cursor: pointer;
     font-weight: 700;
 }
-.pritam{
+.pritam img{
     border-radius: 50%;
 }
 .body{
@@ -145,8 +145,8 @@ body{
     margin-bottom: 10px;
     border-radius: 5px;
 }
-.card1:hover{
-    background-color: #1A1A1A;
+.card1:hover,.card2:hover{
+    background-color: #1e1e1e;
     cursor: pointer;
 }
 .text1{
@@ -155,4 +155,10 @@ body{
 }
 .text2{
     padding-left: 10px;
+}
+.arijit img{
+    border-radius: 50%;
+}
+.card2{
+    margin: 10px;
 }
