@@ -184,4 +184,5 @@ body{
 }
 .signUpFree:hover{
     font-size: 105%;
+    cursor: pointer;
 }
