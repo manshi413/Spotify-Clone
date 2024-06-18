@@ -156,7 +156,7 @@ body{
 .text2{
     padding-left: 10px;
 }
-.card2{
+.card2,.card3,.card4,.card5{
     margin: 10px;
 }
 .show:hover{
