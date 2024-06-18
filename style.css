@@ -123,7 +123,9 @@ body{
     margin-right: 30px;
 }
 .login:hover{
-    border: 105%;
+    font-size: 105%;
+    cursor: pointer;
+    font-weight: 700;
 }
 .pritam{
     border-radius: 50%;
@@ -147,10 +149,10 @@ body{
     background-color: #1A1A1A;
     cursor: pointer;
 }
-.pname{
+.text1{
     padding-left: 10px;
     font-weight: bold;
 }
-.pocc{
+.text2{
     padding-left: 10px;
 }
