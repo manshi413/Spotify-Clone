@@ -27,6 +27,8 @@ body{
     width: 81vw;
     border-radius: 10px;
     background-color: #1E1E1E;
+    height: 608px;
+    overflow-y: auto;
 }
 .home ul li{
     display: flex;
