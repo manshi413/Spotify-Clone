@@ -84,6 +84,9 @@ body{
     padding-bottom: 10px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    position: fixed;
+    top: 8px;
+    width: 78.6%;
 }
 .images{
     display: flex;
@@ -174,7 +177,7 @@ body{
     margin-left: 5px;
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 99%;
 }
 .signUpFree{
     margin-right: 20px;
