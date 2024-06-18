@@ -53,18 +53,11 @@ body{
 .lib{
     padding-right: 12px;
 }
-/* .playlist{
-    background-color: #242424;
-    border-radius: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-} */
 .heading{
     justify-content: space-between;
+    padding-bottom: 7px;
     padding-left: 20px;
     padding-top: 30px;
-    padding-bottom: 10px;
     padding-right: 10px;
 
 }
@@ -144,7 +137,10 @@ body{
 .card1{
     height: 280px;
     width: 232px;
-    margin: 10px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     border-radius: 5px;
 }
 .card1:hover{
