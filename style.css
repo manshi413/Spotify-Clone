@@ -122,7 +122,7 @@ body{
     padding-bottom: 12px;
     margin-right: 30px;
 }
-.login:hover{
+.login:hover,.signUpFree:hover{
     font-size: 105%;
     cursor: pointer;
     font-weight: 700;
@@ -181,10 +181,6 @@ body{
     height: 25px;
     width: 125px;
     text-align: center;
-}
-.signUpFree:hover{
-    font-size: 105%;
-    cursor: pointer;
 }
 .pop{
     font-size: 24px;
