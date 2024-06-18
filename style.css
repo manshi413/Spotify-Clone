@@ -167,7 +167,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 1520px;
+    width: 1508px;
     height: 70px;
     background: linear-gradient(to right, #AF2896 30%, #519AF4 70%)
 }
@@ -188,10 +188,9 @@ body{
 .popular{
     display: flex;
     justify-content: space-between;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
 .footerText{
     padding-left: 20px;
-}
-.show1{
-    padding-left: 10px;
 }
