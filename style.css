@@ -171,3 +171,14 @@ body{
     height: 70px;
     background: linear-gradient(to right, #AF2896 30%, #519AF4 70%)
 }
+.SignUpFree{
+    margin-right: 20px;
+    padding: 10px;
+    color: black;
+    background-color: white;
+    font-weight: 700;
+    border-radius: 200px;
+    height: 25px;
+    width: 125px;
+    text-align: center;
+}
