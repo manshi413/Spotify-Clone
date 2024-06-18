@@ -146,7 +146,7 @@ body{
     border-radius: 5px;
 }
 .card1:hover,.card2:hover{
-    background-color: #1e1e1e;
+    background-color: #1b1b1b;
     cursor: pointer;
 }
 .text1{
