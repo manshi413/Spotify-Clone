@@ -162,3 +162,7 @@ body{
 .card2{
     margin: 10px;
 }
+.show:hover{
+    cursor: pointer;
+    text-decoration-line: underline;
+}
