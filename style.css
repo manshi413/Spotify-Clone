@@ -103,7 +103,7 @@ body{
     padding-top: 10px;
 }
 .signup:hover{
-    font-size: 102%;
+    font-size: 105%;
     cursor: pointer;
     font-weight: 700;
 }
@@ -129,6 +129,9 @@ body{
     padding-bottom: 12px;
     margin-right: 30px;
 }
+.login:hover{
+    border-radius: 105%;
+}
 .pritam{
     border-radius: 50%;
 }
@@ -146,9 +149,11 @@ body{
 }
 .card1:hover{
     background-color: #1A1A1A;
+    cursor: pointer;
 }
 .pname{
     padding-left: 10px;
+    font-weight: bold;
 }
 .pocc{
     padding-left: 10px;
