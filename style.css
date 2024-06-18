@@ -100,11 +100,11 @@ body{
     cursor: pointer;
     font-weight: 700;
 }
-.artists{
+.artists,.pop{
     font-size: 24px;
     font-weight: 700;
 }
-.artists:hover{
+.artists:hover,.pop:hover{
     text-decoration-line: underline;
     cursor: pointer;
 }
@@ -181,4 +181,7 @@ body{
     height: 25px;
     width: 125px;
     text-align: center;
+}
+.signUpFree:hover{
+    font-size: 105%;
 }
