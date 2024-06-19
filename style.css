@@ -3,6 +3,13 @@
     margin: 0px;
     padding: 0px;
 }
+::-webkit-scrollbar-thumb{
+    color: #606060;
+}
+::-webkit-scrollbar-track{
+    color:#1E1E1E;
+    border-top-right-radius: 5px;
+}
 body{
     background-color: black;
     color: white;
@@ -220,13 +227,6 @@ body{
 }
 .footerText{
     padding-left: 20px;
-}
-::-webkit-scrollbar-thumb{
-    color: #606060;
-}
-::-webkit-scrollbar-track{
-    color:#1E1E1E;
-    border-top-right-radius: 5px;
 }
 .album1,.album2,.album3,.album4,.album5{
     padding: 10px;
