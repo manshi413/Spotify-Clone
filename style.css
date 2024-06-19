@@ -248,3 +248,15 @@ body{
     border-radius: 10px;
     height: 125px;
 }
+.create{
+    padding-top: 15px;
+    padding-left: 16px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.tex{
+    font-size: 14px;
+    padding-left: 16px;
+    padding-top: 10px;
+    font-weight: 700;
+}
