@@ -186,7 +186,7 @@ body{
     text-decoration-line: underline;
 }
 .card2,.card3,.card4,.card5,.album1,.album2,.album3,.album4,.album5{
-    margin: 10px;
+    padding: 10px;
 }
 .show:hover{
     cursor: pointer;
