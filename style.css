@@ -215,7 +215,6 @@ body{
 .popular{
     display: flex;
     justify-content: space-between;
-    padding-bottom: 15px;
     padding-right: 10px;
     padding-top: 40px;
 }
@@ -230,7 +229,6 @@ body{
     border-top-right-radius: 5px;
 }
 .album1,.album2,.album3,.album4,.album5{
-    margin: 10px;
     padding: 10px;
 }
 .love img,.animal img,.ek img,.moosetape img,.avesham img{
