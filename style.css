@@ -178,7 +178,7 @@ body{
     background: linear-gradient(to right, #AF2896 30%, #519AF4 70%);
     margin-left: 5px;
     position: fixed;
-    bottom: 0;
+    bottom: 5;
     width: 99%;
 }
 .signUpFree{
@@ -203,4 +203,14 @@ body{
 }
 .footerText{
     padding-left: 20px;
+}
+::-webkit-scrollbar-thumb{
+    color: #606060;
+}
+.album1,.album2,.album3,.album4,.album5{
+    margin:10px;
+    padding: 10px;
+}
+.love img,.animal img,.ek img,.moosetape img,.avesham img{
+    border-radius: 5px;
 }
