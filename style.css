@@ -163,11 +163,20 @@ body{
 }
 .text1{
     padding-left: 10px;
-    font-weight: bold;
+    font-weight: 400;
 }
 .text2{
     padding-left: 10px;
     color: grey;
+    
+}
+.text3{
+    padding-left: 10px;
+    color: grey;
+    font-size: 14px;
+}
+.text3:hover{
+    text-decoration-line: underline;
 }
 .card2,.card3,.card4,.card5,.album1,.album2,.album3,.album4,.album5{
     margin: 10px;
