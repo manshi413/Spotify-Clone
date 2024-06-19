@@ -241,6 +241,7 @@ body{
     margin: 10px;
     border-radius: 10px;
     height: 135px;
+    width: 270px;
     overflow-y: auto;
 }
 .play{
