@@ -58,15 +58,17 @@ body{
 }
 .add{
     padding-left: 88px;
+    padding-top: 5px;
+    padding-right: 10px
 }
 .lib{
-    padding-right: 12px;
+    padding-right: 5px;
 }
 .head{
     justify-content: space-between;
     padding-bottom: 7px;
     padding-left: 20px;
-    padding-top: 30px;
+    padding-top: 20px;
     padding-right: 10px;
 }
 .heading{
