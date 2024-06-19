@@ -240,13 +240,13 @@ body{
     background-color: black;
     margin: 10px;
     border-radius: 10px;
-    height: 125px;
+    height: 135px;
     overflow-y: auto;
 }
 .play{
     background-color: #242424;
     border-radius: 10px;
-    height: 125px;
+    height: 135px;
 }
 .create{
     padding-top: 15px;
@@ -259,4 +259,17 @@ body{
     padding-left: 16px;
     padding-top: 10px;
     font-weight: 700;
+}
+.but{
+    margin-top: 25px;
+    margin-left: 32px;
+    margin-right: 105px;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 150px;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
 }
