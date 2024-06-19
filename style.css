@@ -237,7 +237,7 @@ body{
     justify-content: space-around;
 }
 .scroll{
-    background-color: black;
+    background-color: #121212;
     margin: 10px;
     border-radius: 10px;
     height: 135px;
@@ -263,10 +263,10 @@ body{
 .but{
     margin-top: 25px;
     margin-left: 32px;
-    margin-right: 105px;
+    margin-right: 90px;
     color: black;
     background-color: white;
-    padding: 10px;
+    padding: 5px;
     border-radius: 150px;
     font-weight: 700;
     font-size: 14px;
