@@ -66,7 +66,7 @@ body{
     justify-content: space-between;
     padding-bottom: 7px;
     padding-left: 20px;
-    padding-top: 90px;
+    padding-top: 95px;
     padding-right: 10px;
 
 }
@@ -215,8 +215,9 @@ body{
 .popular{
     display: flex;
     justify-content: space-between;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     padding-right: 10px;
+    padding-top: 40px;
 }
 .footerText{
     padding-left: 20px;
