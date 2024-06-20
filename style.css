@@ -291,3 +291,17 @@ body{
     display: flex;
     justify-content: center;
 }
+.teBox{
+    position: absolute;
+    top: -45%;
+    background-color: #1a1a1a;
+    border-radius: 5px;
+    padding: 3px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    opacity: 0;
+}
+.teBox:hover{
+    opacity: 1;
+}
