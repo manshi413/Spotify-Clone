@@ -249,6 +249,11 @@ body{
     border-radius: 10px;
     height: 135px;
 }
+.play1{
+    background-color: #242424;
+    border-radius: 10px;
+    height: 180px;
+}
 .create{
     padding-top: 15px;
     padding-left: 16px;
