@@ -165,7 +165,7 @@ body{
     border-radius: 5px;
 }
 .card1:hover,.card2:hover,.card3:hover,.card4:hover,.card5:hover,.album1:hover,.album2:hover,.album3:hover,.album4:hover,.album5:hover{
-    background-color: #1E1E1E;
+    background-color: #161212;
     cursor: pointer;
 }
 .text1{
@@ -197,12 +197,12 @@ body{
     align-items: center;
     justify-content: space-between;
     width: 1520px;
-    height: 70px;
+    height: 60px;
     margin-left: 5px;
     background: linear-gradient(to right, #AF2896 30%, #519AF4 70%);
     margin-left: 5px;
     position: fixed;
-    bottom: 5;
+    bottom: 10px;
     width: 99%;
 }
 .signUpFree{
