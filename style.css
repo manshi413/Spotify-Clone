@@ -76,6 +76,10 @@ body{
 }
 .lib{
     padding-right: 5px;
+    color: grey;
+}
+.lib:hover{
+    color: white;
 }
 .head{
     justify-content: space-between;
@@ -304,4 +308,5 @@ body{
 }
 .teBox:hover{
     opacity: 1;
+    cursor: pointer;
 }
