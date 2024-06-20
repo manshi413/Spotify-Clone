@@ -167,6 +167,7 @@ body{
 .card1:hover,.card2:hover,.card3:hover,.card4:hover,.card5:hover,.album1:hover,.album2:hover,.album3:hover,.album4:hover,.album5:hover{
     background-color: #161212;
     cursor: pointer;
+    border-radius: 5px;
 }
 .text1{
     padding-left: 10px;
