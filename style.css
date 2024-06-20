@@ -64,6 +64,11 @@ body{
     padding-bottom: 20px;
     color: grey;
 }
+.li2:hover{
+    cursor: pointer;
+    text-decoration-line: underline;
+    color: white;
+}
 .add{
     padding-left: 88px;
     padding-top: 5px;
