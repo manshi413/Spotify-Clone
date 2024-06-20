@@ -55,9 +55,14 @@ body{
 .li1{
     padding-bottom: 15px;
 }
+.li1:hover{
+    text-decoration-line: underline;
+    cursor: pointer;
+}
 .li2{
     padding-top: 10px;
     padding-bottom: 20px;
+    color: grey;
 }
 .add{
     padding-left: 88px;
