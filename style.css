@@ -160,10 +160,8 @@ body{
 .card1{
     height: 280px;
     width: 232px;
-    margin-right: 10px;
     margin-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding: 10px;
     border-radius: 5px;
 }
 .card1:hover,.card2:hover,.card3:hover,.card4:hover,.card5:hover,.album1:hover,.album2:hover,.album3:hover,.album4:hover,.album5:hover{
