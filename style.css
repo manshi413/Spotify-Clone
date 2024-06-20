@@ -219,7 +219,7 @@ body{
 .pop{
     padding-left: 20px;
 }
-.popular{
+.popular,.radios{
     display: flex;
     justify-content: space-between;
     padding-right: 10px;
@@ -231,7 +231,7 @@ body{
 .love img,.animal img,.ek img,.moosetape img,.avesham img{
     border-radius: 5px;
 }
-.albums{
+.albums,.radio{
     justify-content: space-around;
 }
 .scroll{
