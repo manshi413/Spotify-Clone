@@ -11,5 +11,5 @@ Implement basic playback controls (play, pause, skip, volume)
 Responsive design for different devices
 
 **Tech Stack:** <br>
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, React
 
